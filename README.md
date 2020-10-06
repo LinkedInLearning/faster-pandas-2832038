@@ -1,4 +1,4 @@
-# COURSENAME
+# Faster Pandas
 This is the repository for the LinkedIn Learning course Faster Pandas. The full course is available from [LinkedIn Learning](https://linkedin.com/learning/).
 
 [![Faster Pandas](COURSEIMAGE)](LICOURSEURL)
