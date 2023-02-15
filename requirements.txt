@@ -5,7 +5,7 @@
 
 Cython~=0.29
 dask[complete]~=2.2
-ipython~=7.1
+ipython~=8.10
 numba~=0.5
 numexpr~=2.7
 pandas~=1.1
